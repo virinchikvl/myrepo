@@ -1,5 +1,5 @@
 #this is for practice session
 #!/bin/bash
-hello world 
-welcome to virinchi devops 
-this is edited file 
+echo "hello world "
+echo "welcome to virinchi devops" 
+echo "this is edited file"
